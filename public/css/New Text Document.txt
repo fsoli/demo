@@ -1,0 +1,8 @@
+Topological Analysis of Cascading Failures in Bay Area Power Grid
+
+Attack structural vulnerability of power grids: A hybrid approach based on complex networks
+Identifying groups of critical edges in a realistic electrical network by multi-objective genetic algorithms
+
+Cascade and breakdown in scale-free networks with community structure
+
+
